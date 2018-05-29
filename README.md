@@ -1,5 +1,3 @@
-# SP-Error-Shapoint
-
 # sharepoint - edit web.config to show more error "An unexpected error has occurred."
 if see this error just go to web.config of this port and set
 1.debug = true at tag compilation batch="false" debug="true">
